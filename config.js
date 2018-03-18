@@ -1,4 +1,4 @@
-var list = ["","#bg","#scr","#gh","#twt","#mail","#amo","#apod","#logo"];
+var list = ["","#bg","#scr","#gh","#twt","#mail","#amo","#apod","#logo","#diasp"];
 var urls = [
   "http://mtiger.tk",
   "http://blog.mtiger.tk",
@@ -7,5 +7,6 @@ var urls = [
   "mailto:ted.programmer@gmail.com",
   "https://addons.mozilla.org/en-US/firefox/user/MasterOfTheTiger/",
   "https://addons.mozilla.org/en-US/firefox/addon/astronomy-picture/",
-  "http://cubeupload.com/im/MasterOfTheTiger/776logo.png"
+  "http://cubeupload.com/im/MasterOfTheTiger/776logo.png",
+  "https://diasp.org/people/d91b07b00d2101360007047d7b62795e"
 ];
