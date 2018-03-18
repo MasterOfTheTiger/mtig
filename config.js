@@ -1,2 +1,2 @@
-var list = ["","#bg","#scr","gh","#twt"];
-var urls = ["http://mtiger.tk","http://blog.mtiger.tk","https://scratch.mit.edu/users/masterofthetiger","https://github.com/masterofthetiger","https://twitter.com/masterofthetiger"];
+var list = ["","#bg","#scr","#gh","#twt","#mail","#amo","#apod"];
+var urls = ["http://mtiger.tk","http://blog.mtiger.tk","https://scratch.mit.edu/users/masterofthetiger","https://github.com/masterofthetiger","https://twitter.com/masterofthetiger","mailto:ted.programmer@gmail.com","https://addons.mozilla.org/en-US/firefox/user/MasterOfTheTiger/","https://addons.mozilla.org/en-US/firefox/addon/astronomy-picture/"];
