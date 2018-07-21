@@ -9,5 +9,5 @@ var urls = [
   "https://addons.mozilla.org/en-US/firefox/addon/astronomy-picture/",
   "http://cubeupload.com/im/MasterOfTheTiger/776logo.png",
   "https://diasp.org/people/d91b07b00d2101360007047d7b62795e",
-  "https://diasp.org/posts/cb44118036a6013698db047d7b62795e"
+  "https://diasp.org/posts/b67d0c806ec201360f02047d7b62795e"
 ];
