@@ -28,7 +28,7 @@
  *
 */
 
-var list = ["","#bg","#scr","#gh","#twt","#mail","#amo","#apod","#logo","#diasp", "#fednh", "#T ellie"];
+var list = ["","#bg","#scr","#gh","#twt","#mail","#amo","#apod","#logo","#diasp", "#fednh", "#ellie"];
 var urls = [
   "http://mtiger.tk",
   "http://blog.mtiger.tk",
