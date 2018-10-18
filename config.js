@@ -28,7 +28,7 @@
  *
 */
 
-var list = ["","#bg","#scr","#gh","#twt","#mail","#amo","#apod","#logo","#diasp", "#fednh"];
+var list = ["","#bg","#scr","#gh","#twt","#mail","#amo","#apod","#logo","#diasp", "#fednh", "#T ellie"];
 var urls = [
   "http://mtiger.tk",
   "http://blog.mtiger.tk",
@@ -39,5 +39,6 @@ var urls = [
   "https://addons.mozilla.org/en-US/firefox/addon/astronomy-picture/",
   "http://cubeupload.com/im/MasterOfTheTiger/776logo.png",
   "https://diasp.org/people/d91b07b00d2101360007047d7b62795e",
-  "https://diasp.org/posts/10024158"
+  "https://diasp.org/posts/10024158",
+  "https://determined-noyce-d12d03.netlify.com"
 ];
