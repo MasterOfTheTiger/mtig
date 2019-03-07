@@ -30,8 +30,8 @@
 
 var list = ["","#bg","#scr","#gh","#twt","#mail","#amo","#apod","#logo","#diasp", "#fednh", "#ellie"];
 var urls = [
-  "http://mtiger.tk",
-  "http://blog.mtiger.tk",
+  "http://mtiger.xyz",
+  "http://blog.mtiger.xyz",
   "https://scratch.mit.edu/users/masterofthetiger",
   "https://github.com/masterofthetiger","https://twitter.com/masterothetiger",
   "mailto:ted.jameson@protonmail.com",
@@ -40,5 +40,5 @@ var urls = [
   "http://cubeupload.com/im/MasterOfTheTiger/776logo.png",
   "https://diasp.org/people/d91b07b00d2101360007047d7b62795e",
   "https://gist.github.com/MasterOfTheTiger/f98845c9e1b9f3c172926119474f21f4",
-  "https://determined-noyce-d12d03.netlify.com"
+  "https://elliebelcher.com"
 ];
